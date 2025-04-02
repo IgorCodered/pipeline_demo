@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Базовый контроллер
+ * Базовый контроллер хеллоу
  */
 
 @RestController
